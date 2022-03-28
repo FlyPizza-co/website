@@ -18,7 +18,7 @@
             <span class="block xl:inline">For those who never want to fly the virtual skies hungry,</span>
             <span class="block text-red-700 xl:inline">FlyPizza.</span>
           </h1>
-          <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">FlyPizza is the first Microsoft Flight Simulator virtual airline, fueled by pizza. Founded in Early 2020 by a group of aviation enthusiasts and pizza fanatics alike, we strive to deliver excellence in every flight and every slice.</p>
+          <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">FlyPizza is the first Microsoft Flight Simulator virtual airline, fueled by pizza. Founded in early 2020 by a group of aviation enthusiasts and pizza fanatics alike, we strive to deliver excellence in every flight and every slice.</p>
           <div class="relative flex flex-col sm:flex-row sm:space-x-4">
             <a href="https://pilots.flypizza.co/register" class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-red-700 sm:mb-0 hover:bg-red-800 sm:w-auto rounded-lg">
               Fly With Us
