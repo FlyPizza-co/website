@@ -1,9 +1,11 @@
 # FlyPizza Website
-Classic SvelteKit website
+Classic SvelteKit website 
+
 Requires NodeJS 16
 
 # Usage
 Download the files on your computer
+
 Run in terminal
 `npm install`
 
