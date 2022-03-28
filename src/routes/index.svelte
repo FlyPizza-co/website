@@ -18,10 +18,10 @@
             <span class="block xl:inline">For those who never want to fly the virtual skies hungry,</span>
             <span class="block text-red-700 xl:inline">FlyPizza.</span>
           </h1>
-          <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">FlyPizza is the first Microsoft Flight Simulator virtual airline, fueled by pizza. Founded in early 2020 by a group of aviation enthusiasts and pizza fanatics alike, we strive to deliver excellence in every flight and every slice.</p>
+          <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">FlyPizza is the first Microsoft Flight Simulator virtual airline, fueled by pizza. Founded in Early 2020 by a group of aviation enthusiasts and pizza fanatics alike, we strive to deliver excellence in every flight and every slice.</p>
           <div class="relative flex flex-col sm:flex-row sm:space-x-4">
             <a href="https://pilots.flypizza.co/register" class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-red-700 sm:mb-0 hover:bg-red-800 sm:w-auto rounded-lg">
-              Fly with us
+              Fly With Us
               <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12" class=""></line><polyline points="12 5 19 12 12 19" class=""></polyline></svg>
             </a>
             <a href="/about" class="flex items-center px-6 py-3 text-gray-500 bg-gray-100 hover:bg-gray-200 hover:text-gray-600 rounded-lg">Learn More</a>
@@ -79,7 +79,7 @@
                 <div class="p-3 text-white bg-red-700 rounded-lg">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 312 312" stroke-width="1.5" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M57.614,107.338c0-24.723,9.628-47.966,27.109-65.446c3.124-3.124,3.124-8.189,0-11.314c-3.124-3.122-8.188-3.123-11.314,0 c-20.503,20.503-31.795,47.764-31.795,76.761c0,28.996,11.292,56.257,31.795,76.76c1.563,1.562,3.61,2.343,5.657,2.343 c2.048,0,4.095-0.781,5.657-2.343c3.124-3.125,3.124-8.19,0-11.314C67.242,155.303,57.614,132.06,57.614,107.338z"/> <path d="M17.683,107.338c0-35.389,13.781-68.658,38.806-93.682c3.124-3.124,3.124-8.189,0-11.314 c-3.124-3.122-8.188-3.123-11.314,0C17.129,30.388,1.683,67.676,1.683,107.338s15.446,76.95,43.492,104.994 c1.562,1.561,3.608,2.343,5.656,2.343c2.047,0,4.095-0.781,5.657-2.344c3.124-3.124,3.124-8.189-0.001-11.313 C31.465,175.997,17.683,142.727,17.683,107.338z"/> <path d="M111.193,57.047c-3.123-3.124-8.188-3.124-11.313-0.001C86.445,70.48,79.047,88.34,79.047,107.338 c0,18.998,7.398,36.858,20.833,50.292c1.561,1.561,3.609,2.343,5.656,2.343c2.048,0,4.095-0.781,5.657-2.344 c3.124-3.124,3.124-8.189-0.001-11.313c-10.411-10.411-16.145-24.253-16.145-38.978s5.734-28.566,16.145-38.978 C114.317,65.237,114.317,60.171,111.193,57.047z"/> <path d="M226.262,30.578c-3.125-3.123-8.189-3.123-11.314,0c-3.124,3.125-3.124,8.19,0,11.314 c17.481,17.48,27.109,40.724,27.109,65.446c0,24.722-9.628,47.965-27.109,65.445c-3.124,3.124-3.124,8.189,0,11.314 c1.563,1.562,3.609,2.343,5.657,2.343c2.047,0,4.095-0.781,5.657-2.343c20.503-20.503,31.795-47.764,31.795-76.76 C258.057,78.341,246.765,51.081,226.262,30.578z"/> <path d="M254.497,2.342c-3.125-3.123-8.189-3.123-11.314,0c-3.124,3.125-3.124,8.191,0,11.314 c25.024,25.023,38.806,58.293,38.806,93.682c0,35.389-13.781,68.658-38.805,93.68c-3.125,3.124-3.125,8.189-0.001,11.313 c1.563,1.563,3.609,2.344,5.657,2.344c2.047,0,4.095-0.781,5.656-2.343c28.046-28.044,43.492-65.332,43.492-104.994 S282.543,30.388,254.497,2.342z"/> <path d="M199.792,57.046c-3.124-3.124-8.19-3.123-11.314,0.001c-3.124,3.124-3.124,8.189,0.001,11.313 c10.411,10.411,16.146,24.253,16.146,38.978s-5.734,28.566-16.146,38.978c-3.125,3.124-3.125,8.189-0.001,11.313 c1.563,1.563,3.609,2.344,5.657,2.344c2.047,0,4.095-0.781,5.656-2.343c13.435-13.434,20.833-31.294,20.833-50.292 C220.625,88.34,213.226,70.48,199.792,57.046z"/> <path d="M167.137,90.37c-4.621-4.621-10.766-7.166-17.301-7.166c-6.534,0-12.679,2.545-17.303,7.167 c-9.539,9.54-9.706,25.063-0.165,34.604c1.6,1.599,3.134,2.942,5.134,4.024v158.673c0,6.627,5.373,12,12,12s12-5.373,12-12V128.999 c2-1.082,3.869-2.427,5.467-4.025C176.51,115.433,176.676,99.911,167.137,90.37z"/></svg>
                 </div>
-                <h4 class="text-xl font-medium text-gray-700">Flight recording system</h4>
+                <h4 class="text-xl font-medium text-gray-700">Flight Recording System</h4>
                 <p class="text-base text-center text-gray-500">We have a custom flight recording software that allows you to track and share your flights.</p>
             </div>
 
@@ -103,7 +103,7 @@
                 <div class="p-3 text-white bg-red-700 rounded-lg">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 0 126 126" stroke-width="1.5" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M117,13.55c7.914-7.915-3.033-18.262-10.848-10.446L77.293,31.962L11.182,14.486L0.161,25.506l54.49,28.698L32.613,76.241 L15.48,74.138l-8.716,8.717l19.437,10.219l10.22,19.438l8.716-8.717l-2.003-17.032l22.038-22.038l28.081,54.132l11.021-11.021 l-16.73-64.772L117,13.55z"/></svg>
                 </div>
-                <h4 class="text-xl font-medium text-gray-700">Large fleet</h4>
+                <h4 class="text-xl font-medium text-gray-700">Large Fleet</h4>
                 <p class="text-base text-center text-gray-500">With ten aircraft in our fleet, you don't have to worry about which route to fly. Each livery is hand-crafted for each plane!</p>
             </div>
 
@@ -119,7 +119,7 @@
                 <div class="p-3 text-white bg-red-700 rounded-lg">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 " viewBox="0 -2 46 50" stroke-width="3" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M40.462,19.193H39.13v-1.872c0-3.021-2.476-5.458-5.496-5.458h-8.975v-4.49c1.18-0.683,1.973-1.959,1.973-3.423 c0-2.182-1.771-3.95-3.951-3.95c-2.183,0-3.963,1.769-3.963,3.95c0,1.464,0.785,2.74,1.965,3.423v4.49h-8.961 c-3.021,0-5.448,2.437-5.448,5.458v1.872H4.893c-1.701,0-3.091,1.407-3.091,3.108v6.653c0,1.7,1.39,3.095,3.091,3.095h1.381v1.887 c0,3.021,2.427,5.442,5.448,5.442h2.564v2.884c0,1.701,1.393,3.08,3.094,3.08h10.596c1.701,0,3.08-1.379,3.08-3.08v-2.883h2.578 c3.021,0,5.496-2.422,5.496-5.443V32.05h1.332c1.701,0,3.078-1.394,3.078-3.095v-6.653C43.54,20.601,42.165,19.193,40.462,19.193z M10.681,21.271c0-1.999,1.621-3.618,3.619-3.618c1.998,0,3.617,1.619,3.617,3.618c0,1.999-1.619,3.618-3.617,3.618 C12.302,24.889,10.681,23.27,10.681,21.271z M27.606,34.473H17.75c-1.633,0-2.957-1.316-2.957-2.951 c0-1.633,1.324-2.949,2.957-2.949h9.857c1.633,0,2.957,1.316,2.957,2.949S29.239,34.473,27.606,34.473z M31.056,24.889 c-1.998,0-3.618-1.619-3.618-3.618c0-1.999,1.62-3.618,3.618-3.618c1.999,0,3.619,1.619,3.619,3.618 C34.675,23.27,33.055,24.889,31.056,24.889z"/></svg>
                 </div>
-                <h4 class="text-xl font-medium text-gray-700">Custom Discord bot</h4>
+                <h4 class="text-xl font-medium text-gray-700">Custom Discord Bot</h4>
                 <p class="text-base text-center text-gray-500">We have a Discord bot to help provide METARs and charts for your flight! It also is integrated into our flight system.</p>
             </div>
 
